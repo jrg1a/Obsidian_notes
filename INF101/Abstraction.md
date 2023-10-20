@@ -1,0 +1,21 @@
+Abstraction is a crucial element of object-oriented programming. It allows humans to manage complexity by thinking of [[Objects and Methods]] as well-defined entities with their own behavior, rather than focusing on individual parts. This abstraction enables users to utilize objects without being overwhelmed by the underlying complexity. Hierarchical classifications further enhance abstraction by breaking down complex systems into manageable subsystems and specialized units. This hierarchical approach applies not only to physical objects like cars but also to computer programs, where process steps can be transformed into objects that communicate through messages. Object-oriented programming is at the core of Java and facilitates the creation of robust software that can adapt to changes over time. With well-defined objects and clean interfaces, parts of an older system can be decommissioned or replaced without complications.
+
+Important parts:
+- Abstraction allows humans to manage complexity by thinking of objects as distinct entities with their own behavior.
+- Hierarchical classifications break down complex systems into manageable subsystems and specialized units.
+- Abstraction is applicable to both physical objects and computer programs.
+- Object-oriented programming allows processes to be transformed into objects that communicate through messages.
+- Java is built on object-oriented concepts, which facilitate the development of adaptable software.
+- Well-defined objects and clean interfaces enable the graceful decommissioning or replacement of parts in a software system.
+
+Abstraction in the context of programming involves simplifying complex systems or concepts by focusing on the essential features and hiding unnecessary details. Here are some additional points about abstraction:
+1.  [[Abstraction]] reduces complexity: By abstracting away irrelevant details, programmers can focus on the essential aspects of a system or concept. It allows them to work with higher-level, more understandable representations.
+2.  [[Encapsulation]] of complexity: Abstraction helps encapsulate complexity within well-defined objects or modules. It allows developers to isolate and manage complexity by providing a clear interface for interaction.
+3.  [[Modularity#Code Reusability|Re-usability]]: Abstraction promotes re-usability by creating generalized, abstract models or classes that can be used in various contexts. This reduces redundant code and increases the efficiency of software development.
+4.  [[Modularity]]: Abstraction facilitates the modular design of software systems. It allows for the decomposition of complex systems into smaller, self-contained modules, making the code more maintainable, extensible, and easier to understand.
+5.  Separation of concerns: Abstraction helps separate different concerns within a system, allowing developers to focus on one aspect at a time. This improves code organization and allows for better collaboration among team members.
+6.  Conceptual modeling: Abstraction allows developers to create conceptual models that represent real-world entities or problem domains. These models serve as a bridge between the problem domain and the software solution, aiding in effective communication and understanding.
+7.  Level of detail: Abstraction provides flexibility in choosing the level of detail at which a system or concept is represented. It allows developers to zoom in or zoom out, depending on the specific needs of the project or the intended audience.
+8.  Code maintainability: Abstraction promotes code maintainability by reducing dependencies on specific implementations. Changes or updates can be made to the underlying implementation without affecting the code that relies on the abstracted interfaces.
+
+Overall, abstraction is a fundamental principle in software development that allows programmers to manage complexity, improve code organization, enhance reusability, and create effective models of real-world concepts. It plays a vital role in creating robust, scalable, and maintainable software systems.
